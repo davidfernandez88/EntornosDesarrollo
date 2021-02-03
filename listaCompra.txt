@@ -2,3 +2,5 @@ salchichas
 papas
 helado
 pescado
+lechuga
+mandarinas
