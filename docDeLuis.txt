@@ -1,1 +1,5 @@
 A ver si lo leéis
+
+Esto lo escribo supuestamente habiendo juntado mi rama con la master, y si ahora hago commit (bueno, guardo este archivo, hago git add ) debería añadirlo a la rama master y seguir siendo el head.
+
+Cuando haga el push veréis este archivo en el remoto.
