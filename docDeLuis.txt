@@ -3,8 +3,10 @@ A ver si lo leéis
 
 Archivo leido Luis!. Soy Nagib!
 
-Esto lo escribo supuestamente habiendo juntado mi rama con la master, y si ahora hago commit (bueno, guardo este archivo, hago git add ) debería añadirlo a la rama master y seguir siendo el head.
+Soy Luis, esto lo escribo supuestamente habiendo juntado mi rama con la master, y si ahora hago commit (bueno, guardo este archivo, hago git add ) debería añadirlo a la rama master y seguir siendo el head.
 
 Cuando haga el push veréis este archivo en el remoto.
 
 Vaya, resulta que Nagib había escrito que lo había leido dentro de multiplicar, y hasta que no he hecho pull no lo he visto. Yo estaba en main, entonces he querido hacer merge y bang!, error al hacer auto-merge. He modificado este archivo y voy a ver si logro subirlo (al main, pero primero haciendo un commit y push a multiplicar a ver...)
+
+Vale, me estoy haciendo un lío XD. Ya estaba en main yo, entonces al hacer add, commit y push se ha subido al main. A ver si vuelvo a rama multiplicar y la junto con esta.
